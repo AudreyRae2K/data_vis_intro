@@ -176,3 +176,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,vscode,python
+
+
+# Things I have ignored
+*.csv
