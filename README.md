@@ -21,3 +21,7 @@
 3. Install Requirements:
     pip install -r requirements.txt
 
+4. Before Running jupyter lab:
+    * point the iphuernal to the venv*
+    python -m ipyernel install --user --nae=data_visa
+
