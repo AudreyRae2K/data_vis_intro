@@ -8,7 +8,6 @@
 
 2. Add it to the data folder
 
-3.
 
 #### Install Dep:
 1. Make venv:
@@ -18,6 +17,7 @@
 2. Activate it:
     windows: .\venv\Scripts\Activate.ps1
     mac/linux: source venv/bin/activate
+
 3. Install Requirements:
     pip install -r requirements.txt
 
