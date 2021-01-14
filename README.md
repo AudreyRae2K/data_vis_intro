@@ -3,7 +3,7 @@
 ## Getting Started:
 
 #### Get the Data:
-1. Get the data csv from 
+1. Get the csv data from 
 [kaggel.com "Amazon Top 50 Bestselling Books 2009 - 2019"](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
 2. Add it to the data folder
@@ -20,8 +20,4 @@
 
 3. Install Requirements:
     pip install -r requirements.txt
-
-4. Before Running jupyter lab:
-    * point the iphuernal to the venv*
-    python -m ipyernel install --user --nae=data_visa
 
